@@ -9,7 +9,7 @@ Built for the situations PR-scoped review tools can't handle: end-to-end sanity 
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/full-codebase-review ~/.claude/skills/full-codebase-review
+git clone https://github.com/b9llach/full-codebase-review ~/.claude/skills/full-codebase-review
 ```
 
 Then in any Claude Code session at the root of a repo:
